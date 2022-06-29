@@ -9,10 +9,14 @@
 
 .menu{
     background-color: transparent;
+    transition: 1s;
+    opacity: 0.8;
 }
 
 .menu2{
     background-color: black;
+    opacity: 0.8;
+    transition: 1s;
 }
 
 .formulario{
